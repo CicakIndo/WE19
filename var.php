@@ -103,7 +103,7 @@ ${"GLOBALS"}["pdpmojzzca"]	="count";
 ${"GLOBALS"}["npmdppwwfw"]	="isUpdate";
 ${"GLOBALS"}["rfxynhipka"]	="userLevel";
 ${"GLOBALS"}["qkcvsfwiiw"]	= "1.5";
-${${"GLOBALS"}["qkcvsfwiiw"]}	= 15;
+${${"GLOBALS"}["qkcvsfwiiw"]}	= 13;
 ${"GLOBALS"}["grhjifwpmf"]	= "dl";
 ${${"GLOBALS"}["grhjifwpmf"]}	= "http://bit.ly/we19-v1_3";
 ?>
