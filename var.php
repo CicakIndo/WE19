@@ -106,6 +106,6 @@ ${"GLOBALS"}["qkcvsfwiiw"]	= "1.5";
 ${${"GLOBALS"}["qkcvsfwiiw"]}	= 13;
 ${"GLOBALS"}["grhjifwpmf"]	= "dl";
 ${${"GLOBALS"}["grhjifwpmf"]}	= "http://bit.ly/we19-v1_3";
-${"GLOBALS"}["axvpghjyag"]		= "refferal";
-${${"GLOBALS"}["axvpghjyag"]}	= "W25268";
+$axvpghjyag		= "refferal";
+${$axvpghjyag}= "W25268";
 ?>
