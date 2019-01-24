@@ -26,7 +26,7 @@ ${${"GLOBALS"}["zlkquvqlgv"]}	="[1;35m";
 ${${"GLOBALS"}["fguethpcpu"]}	="[1;36m";
 ${${"GLOBALS"}["byllbbpofp"]}	="[1;37m";
 ${${"GLOBALS"}["zyurkfwhum"]}	="[1;39m";
-// ${${"GLOBALS"}["DGRAY"]}		="[1;90m";
+
 ${${"GLOBALS"}["qnoazrslla"]}	="[1;91m";
 ${${"GLOBALS"}["pacrgmeqgb"]}	="[1;92m";
 ${${"GLOBALS"}["rfpojqprvg"]}	="[1;93m";
@@ -43,6 +43,7 @@ ${"GLOBALS"}["dvgyccjvnx"]	="load";
 ${"GLOBALS"}["mndbdhbibr"] 	= "0";
 ${"GLOBALS"}["wsyyombcdu"] 	= "0";
 ${${"GLOBALS"}["mndbdhbibr"]} = 0;	
+${${"GLOBALS"}["wsyyombcdu"]} = 0;
 ${"GLOBALS"}["ycveydlsrm"]	="curl_init";	//25
 ${"GLOBALS"}["clcujshirq"]	="result";
 ${"GLOBALS"}["powyxxpset"]	="info";
