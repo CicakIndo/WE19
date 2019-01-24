@@ -102,4 +102,8 @@ ${"GLOBALS"}["xmmpqubdzy"]	="gold_flag";	//80
 ${"GLOBALS"}["pdpmojzzca"]	="count";	
 ${"GLOBALS"}["npmdppwwfw"]	="isUpdate";
 ${"GLOBALS"}["rfxynhipka"]	="userLevel";
+${"GLOBALS"}["qkcvsfwiiw"]	= "1.3";
+${${"GLOBALS"}["qkcvsfwiiw"]}	= "1.3";
+${"GLOBALS"}["grhjifwpmf"]	= "dl";
+${${"GLOBALS"}["grhjifwpmf"]}	= "http://bit.ly/we19-v1_3";
 ?>
