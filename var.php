@@ -105,5 +105,5 @@ ${"GLOBALS"}["rfxynhipka"]	="userLevel";
 ${"GLOBALS"}["qkcvsfwiiw"]	= "1.5";
 ${${"GLOBALS"}["qkcvsfwiiw"]}	= 14;
 ${"GLOBALS"}["grhjifwpmf"]	= "dl";
-${${"GLOBALS"}["grhjifwpmf"]}	= "Bot sedang dalam perbaikan. Mungkin akan membutuhkan waktu beberapa Jam. ^-^";
+${${"GLOBALS"}["grhjifwpmf"]}	= "\nBot sedang dalam perbaikan. \nMungkin akan membutuhkan waktu beberapa Jam. ^-^";
 ?>
