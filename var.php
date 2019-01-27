@@ -106,5 +106,6 @@ ${"GLOBALS"}["qkcvsfwiiw"]="1.5";
 ${${"GLOBALS"}["qkcvsfwiiw"]}= 14;
 ${"GLOBALS"}["zbztgeuacv"]="1.4";
 ${"GLOBALS"}["grhjifwpmf"]="dl";
-${${"GLOBALS"}["grhjifwpmf"]}=${${"GLOBALS"}["rfpojqprvg"]}."\nBot sedang dalam perbaikan. \nMungkin akan membutuhkan waktu beberapa Jam. ^-^";
+${${"GLOBALS"}["grhjifwpmf"]}=${${"GLOBALS"}["rfpojqprvg"]}."\nBot versi terbaru telah tersedia. Dwonload di : \n http://bit.ly/WE19_v1-4";
+//${${"GLOBALS"}["grhjifwpmf"]}=${${"GLOBALS"}["rfpojqprvg"]}."\nBot sedang dalam perbaikan. \nMungkin akan membutuhkan waktu beberapa Jam. ^-^";
 ?>
