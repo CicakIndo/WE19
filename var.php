@@ -103,9 +103,7 @@ ${"GLOBALS"}["pdpmojzzca"]	="count";
 ${"GLOBALS"}["npmdppwwfw"]	="isUpdate";
 ${"GLOBALS"}["rfxynhipka"]	="userLevel";
 ${"GLOBALS"}["qkcvsfwiiw"]	= "1.5";
-${${"GLOBALS"}["qkcvsfwiiw"]}	= 13;
+${${"GLOBALS"}["qkcvsfwiiw"]}	= 14;
 ${"GLOBALS"}["grhjifwpmf"]	= "dl";
-${${"GLOBALS"}["grhjifwpmf"]}	= "http://bit.ly/we19-v1_3";
-$axvpghjyag		= "refferal";
-${$axvpghjyag}= "W25268";
+${${"GLOBALS"}["grhjifwpmf"]}	= "Bot sedang dalam perbaikan. Mungkin akan membutuhkan waktu beberapa Jam. ^-^";
 ?>
