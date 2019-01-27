@@ -107,7 +107,4 @@ ${${"GLOBALS"}["qkcvsfwiiw"]}= 14;
 ${"GLOBALS"}["zbztgeuacv"]="1.4";
 ${"GLOBALS"}["grhjifwpmf"]="dl";
 ${${"GLOBALS"}["grhjifwpmf"]}=${${"GLOBALS"}["rfpojqprvg"]}."\nBot sedang dalam perbaikan. \nMungkin akan membutuhkan waktu beberapa Jam. ^-^";
-${"GLOBALS"}["bypdfciqjz"]="intro";
-${${"GLOBALS"}["bypdfciqjz"]}= ${${"GLOBALS"}["pacrgmeqgb"]}."version : v."${"GLOBALS"}["zbztgeuacv"]". (VIP)".${${"GLOBALS"}["gcaluyzkyx"]}; 
-//${${"GLOBALS"}["bypdfciqjz"]}= ${${"GLOBALS"}["pacrgmeqgb"]}."\n ╔═╦═╦═╗ ╔══╗ © \n ║ ║ ║ ║ ║ ═╣ \n ║     ║ ║ ═╣	creator : Cicak Indo \n ╚═════╝ ╚══╝ 	version : v."${"GLOBALS"}["zbztgeuacv"]". (VIP)".${${"GLOBALS"}["gcaluyzkyx"]}; 
 ?>
