@@ -1,3 +1,5 @@
+<?php
+
 ${"GLOBALS"}["vrxougoybf"]="vrxougoybf";
 ${"GLOBALS"}["gysbjjimrf"]="merah";
 ${"GLOBALS"}["owmuxayhuu"]="owmuxayhuu";
@@ -119,3 +121,5 @@ ${${"GLOBALS"}["nzhlgjliko"]}	="Youtube Official Channel :
 -> Brankas Cryptocurrency
 -> zero Art
 -> Arya Vanhoutendh";
+
+?>
